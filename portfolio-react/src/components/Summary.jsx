@@ -18,8 +18,7 @@ const Summary = () => {
             </div>
             <div>
               <p>I am passionate about building excellent software that improves
-              the lives of those around me. What would you do if you had
-              a software expert available at your fingertips?</p>  
+              the lives of those around me.Being a fresher, I m ready to take any challenging task to gain experience and complete it with perfection</p>  
             </div>
           </div>
       </div>

@@ -11,7 +11,7 @@ const Experience = () => {
           <p className='py-6'>Check out some of my recent work</p>
         </div>
         </div>
-        /</div>
+        </div>
     );
     };
     export default Experience;
